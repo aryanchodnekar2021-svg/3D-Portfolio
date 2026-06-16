@@ -59,7 +59,7 @@ const Navbar = () => {
           </li>
           <li>
             <a data-href="#work" href="#work">
-              <HoverLinks text="WORK" />
+              <HoverLinks text="CREDENTIALS" />
             </a>
           </li>
           <li>
